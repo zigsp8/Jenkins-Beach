@@ -1,0 +1,15 @@
+# 
+#force to www AND https  - jun18 zig
+RewriteEngine on
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$
+RewriteRule ^ https://www.%1%{REQUEST_URI} [NE,L,R=301]
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 195.154.236.110
+deny from 195.154.240.246

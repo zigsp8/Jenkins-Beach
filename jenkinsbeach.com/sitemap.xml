@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://jenkinsbeach.com/</loc>
+  <priority>1.00</priority>
+  <lastmod>2008-08-01T17:54:33+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jenkinsbeach.com/cottages.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-07-24T17:35:50+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jenkinsbeach.com/beach.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-07-31T18:11:21+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jenkinsbeach.com/boats.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-07-24T17:37:18+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jenkinsbeach.com/snackbar.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-07-24T20:44:34+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jenkinsbeach.com/fishing.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-07-25T21:25:34+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jenkinsbeach.com/contact.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-07-24T21:00:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jenkinsbeach.com/index.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2008-08-01T17:54:33+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jenkinsbeach.com/history.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2008-08-01T11:54:34+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
