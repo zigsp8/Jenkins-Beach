@@ -1,3 +1,58 @@
+@@ -0,0 +1,43 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+# zig files & folders to ignore
+.sass-cache/
+compass_app_log.txt
+*.php-*
+*.css-*
+*.html-*
+*.htm-*
 
-jenkinsbeach.com/boatsx.html
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 jenkinsbeach.com/contactx.html
+jenkinsbeach.com/boatsx.html
+jenkinsbeach.com/images/Thumbs.db
+jenkinsbeach.com/images/Thumbs.db
+*.db
+jenkinsbeach.com/php_errorlog
+jenkinsbeach.com/.ftpquota
